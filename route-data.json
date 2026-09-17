@@ -1,0 +1,75 @@
+{
+  "commute_name": "North Boulder to Downtown Boulder Green Commute",
+  "origin": {
+    "address": "45 Oak Avenue, Boulder, CO 80304",
+    "latitude": 40.0448805,
+    "longitude": -105.2738879
+  },
+  "destination": {
+    "address": "1800 Broadway, Boulder, CO 80302",
+    "latitude": 40.0163281,
+    "longitude": -105.2789726
+  },
+  "metrics": {
+    "total_distance_meters": 4026.5,
+    "total_distance_miles": 2.502,
+    "walking_time_minutes": 50.3,
+    "cycling_time_minutes": 13.5,
+    "ebike_time_minutes": 9.5
+  },
+  "turn_by_turn_directions": [
+    {
+      "step": 1,
+      "street": "Oak Avenue",
+      "action": "Head east from 45 Oak Ave towards 19th Street",
+      "distance_meters": 96.6,
+      "estimated_walk_seconds": 72,
+      "estimated_bike_seconds": 18
+    },
+    {
+      "step": 2,
+      "street": "19th Street",
+      "action": "Turn south onto 19th Street, continuing past North Boulder Park",
+      "distance_meters": 2156.5,
+      "estimated_walk_seconds": 1617,
+      "estimated_bike_seconds": 431
+    },
+    {
+      "step": 3,
+      "street": "20th Street",
+      "action": "Continue south along 20th Street towards Downtown perimeter",
+      "distance_meters": 671.7,
+      "estimated_walk_seconds": 503,
+      "estimated_bike_seconds": 134
+    },
+    {
+      "step": 4,
+      "street": "Pearl Street",
+      "action": "Turn west onto Pearl Street",
+      "distance_meters": 216.2,
+      "estimated_walk_seconds": 162,
+      "estimated_bike_seconds": 43
+    },
+    {
+      "step": 5,
+      "street": "18th Street",
+      "action": "Turn south onto 18th Street",
+      "distance_meters": 248.8,
+      "estimated_walk_seconds": 186,
+      "estimated_bike_seconds": 50
+    },
+    {
+      "step": 6,
+      "street": "Canyon Boulevard",
+      "action": "Turn west onto Canyon Boulevard to arrive at 1800 Broadway",
+      "distance_meters": 636.6,
+      "estimated_walk_seconds": 477,
+      "estimated_bike_seconds": 127
+    }
+  ],
+  "environmental_impact": {
+    "co2_saved_per_day_kg": 2.02,
+    "co2_saved_per_year_kg": 485.0,
+    "annual_cost_savings_usd": 2250.0
+  }
+}
