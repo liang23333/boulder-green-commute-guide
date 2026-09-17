@@ -1,2 +1,4 @@
-# boulder-green-commute-guide
-Walking and biking commute analysis and sustainable transit guide for Boulder, CO (North Boulder to Downtown).
+# Boulder Green Commute Guide
+
+A community guide for sustainable commuting in Boulder, Colorado.
+Focused on walking, biking, and multi-modal transit between North Boulder and Downtown Boulder.
